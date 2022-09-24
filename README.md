@@ -8,8 +8,8 @@ Topics for the Abitur:
 │   ├── Mathematik-Analysis
 │   ├── Mathematik-Lineare-Algebra
 │   └── Mathematik-Stochastik
-├── Physik.apkg
-│   ├── Physik-Quantenphysik
-│   ├── Physik-Schwingungen-und-Wellen
-│   └── Physik-Teilchen-im-elektromagnetischen-Feld
+└── Physik.apkg
+    ├── Physik-Quantenphysik
+    ├── Physik-Schwingungen-und-Wellen
+    └── Physik-Teilchen-im-elektromagnetischen-Feld
 ```
